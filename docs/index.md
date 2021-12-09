@@ -1,5 +1,5 @@
 
-# MkDocs
+# BiRDS
 
 Project documentation with&nbsp;Markdown.
 
