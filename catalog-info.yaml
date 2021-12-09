@@ -12,10 +12,10 @@ metadata:
       url: http://backstage.io
     - title: Documentation
       url: https://backstage.io/docs
-    - title: Storybook
-      url: https://backstage.io/storybook
-    - title: Discord Chat
-      url: https://discord.com/invite/EBHEGzX
+    - title: Confluence
+      url: https://billgo.atlassian.net/wiki/spaces/BILLGO/pages/450298180/BiRDS+2.0
+    - title: Slack Channel
+      url: https://billgo.slack.com/archives/C015LTDHUMD
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
