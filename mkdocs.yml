@@ -36,6 +36,6 @@ markdown_extensions:
     - attr_list
     - def_list
 
-copyright: Copyright &copy; BillGO
+copyright: Copyright &copy; BillGO - Confidential - Internal Use Only
 plugins:
     - search
