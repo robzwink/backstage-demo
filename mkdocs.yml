@@ -39,3 +39,4 @@ markdown_extensions:
 copyright: Copyright &copy; BillGO - Confidential - Internal Use Only
 plugins:
     - search
+    - techdocs-core
