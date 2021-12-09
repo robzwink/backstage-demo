@@ -22,5 +22,5 @@ metadata:
     lighthouse.com/website-url: https://backstage.io
 spec:
   type: service
-  lifecycle: experimental
+  lifecycle: maintain
   owner: team-a
