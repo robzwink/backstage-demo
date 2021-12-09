@@ -1,7 +1,44 @@
-site_name: BiRDS
-site_url: https://birds.billgo.com
+site_name: MkDocs
+site_url: https://www.mkdocs.org/
 site_description: Project documentation with Markdown.
-site_author: BiRDS Team
+site_author: MkDocs Team
 
-repo_url: https://github.com/robzwink/backstage-demo/
+repo_url: https://github.com/mkdocs/mkdocs/
 edit_uri: ""
+
+theme:
+    name: mkdocs
+    locale: en
+    analytics: {gtag: 'G-274394082'}
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - django
+
+nav:
+    - Home: index.md
+    - Getting Started: getting-started.md
+    - User Guide:
+        - Overview: user-guide/index.md
+        - Installation: user-guide/installation.md
+    - Developer Guide:
+        - Overview: dev-guide/index.md
+    - About:
+        - Release Notes: about/release-notes.md
+
+extra_css:
+    - css/extra.css
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition
+    - attr_list
+    - def_list
+    - mdx_gh_links:
+        user: mkdocs
+        repo: mkdocs
+
+copyright: Copyright &copy; BillGO
+plugins:
+    - search
