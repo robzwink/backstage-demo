@@ -1,13 +1,13 @@
-site_name: MkDocs
+site_name: BiRDS
 site_url: https://www.mkdocs.org/
 site_description: Project documentation with Markdown.
-site_author: MkDocs Team
+site_author: BiRDS Team
 
 repo_url: https://github.com/mkdocs/mkdocs/
 edit_uri: ""
 
 theme:
-    name: BiRDS
+    name: mkdocs
     locale: en
     analytics: {gtag: 'G-274394082'}
     highlightjs: true
