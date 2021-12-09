@@ -4,6 +4,9 @@ metadata:
   name: BiRDS
   description: |
     Biller Information Record Directory Service (BiRDS) is the system of record (SOR) for general biller facts and supported/active integrations.
+  tags:
+    - java
+    - data    
   links:
     - title: Website
       url: http://backstage.io
