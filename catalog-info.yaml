@@ -11,7 +11,7 @@ metadata:
     - title: Website
       url: http://backstage.io
     - title: Documentation
-      url: https://backstage.io/docs
+      url: http://localhost:3000/catalog/default/component/BiRDS/docs
     - title: Confluence
       url: https://billgo.atlassian.net/wiki/spaces/BILLGO/pages/450298180/BiRDS+2.0
     - title: Slack Channel
